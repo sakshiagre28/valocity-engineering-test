@@ -8,9 +8,17 @@ This solution is built with C# and .NET 8.0, which reflects the technology stack
 
 Microsoft's Visual Studio Code is also a useful IDE for this project: https://code.visualstudio.com/download
 
-## Overview
+## Submission Guidelines
 
-Choose the exercise that best matches your experience level and the role you're applying for:
+Please submit your completed exercise(s) according to the instructions:
+
+- Fork this repository to your own GitHub account before starting the assessment.
+- Commit your changes regularly to demonstrate your progress. Use clear, descriptive commit messages to explain what was done.
+- Include any supporting documentation that helps us understand your approach (e.g. assumptions, design decisions, trade-offs).
+- Share your repository link with us once you’ve completed the assessment.
+
+
+## Overview
 
 1. **Code Review Exercise** - A focused code review task
 2. **Gilded Rose Kata** - A refactoring challenge
@@ -86,14 +94,6 @@ Just for clarification, an item can never have its Quality increase above 50, ho
 ![Build Output](images/build_output.png "Good Build Output")
 
 ---
-
-## Submission Guidelines
-
-Please submit your completed exercise(s) according to the instructions provided by your recruiter. Typically this involves:
-
-- Forking this repository
-- Committing your changes with clear, descriptive commit messages
-- Providing any additional documentation or notes about your approach
 
 ## Use of Generative AI
 
