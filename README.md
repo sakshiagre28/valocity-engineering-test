@@ -1,6 +1,6 @@
-## Exercise 1: Code Review
+# Exercise 1: Code Review
 
-# Issues identified:
+## Issues identified:
 
 1. Poor indentation in some areas
 Code was not correctly indented.
@@ -16,9 +16,9 @@ Unused expressions (e.g., Substring result not returned, unused constructor)
 4. Design issues
 Hardcoded values were used instead of using constants
 
-## Exercise 2: Gilded rose refactoring kata
+# Exercise 2: Gilded rose refactoring kata
 
-# Issues identified and fixed:
+## Issues identified and fixed:
 
 1. Violation of SRP
 The class was implementing all the logic for checking the type, updating the quality and sellin for each type.
@@ -38,7 +38,7 @@ FIX: Seperation of concerns helped to have clean single loop in UpdateQuality me
 5. Hardcoded items in Program.cs
 FIX: Seperate class created for hardcoded items making the code clean.
 
-# Use of AI Assistance
+## Use of AI Assistance
 
 1. To create the factory and its logic.
 2. To generate the class to return the list of items.
